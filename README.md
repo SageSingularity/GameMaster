@@ -3,6 +3,7 @@
 ## Summary
 
 ## Syllabus
+* [Python Exercises (CodeCademy)](https://www.codecademy.com/learn/learn-python)
 * Combat Tracker
   * Dice Roll
 * Database storage and access of open source RPG information ([sqlite?](https://www.sqlite.org/about.html))
